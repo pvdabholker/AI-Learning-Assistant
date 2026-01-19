@@ -1,0 +1,36 @@
+PS C:\Users\kapil\Videos\Movies\Desktop\AI Learning Assistant> cd frontend
+PS C:\Users\kapil\Videos\Movies\Desktop\AI Learning Assistant\frontend> npm create vite@latest .
+> npx
+> create-vite .
+│
+◇  Select a framework:
+│  React
+◇  Select a variant:
+│  JavaScript
+◇  Use rolldown-vite (Experimental)?:
+│  No
+◇  Install with npm and start now?
+│  Yes
+◇  Scaffolding project in C:\Users\kapil\Videos\Movies\Desktop\AI Learning Assistant\frontend...
+│
+◇  Installing dependencies with npm...
+added 157 packages, and audited 158 packages in 4m
+
+33 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+│
+◇  Starting dev server...
+
+> frontend@0.0.0 dev
+> vite
+
+
+  VITE v7.3.1  ready in 2143 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+  
